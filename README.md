@@ -65,7 +65,7 @@ The following table provides a detailed description of the columns found in `tra
 
 ## Setup Instructions
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Logo" width="15" height = "18"/> **Google Colab Setup**
+### <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Logo" width="28" height = "20"/> **Google Colab Setup**
 
 1. **Download the required dataset from**:
    - **[Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)**
