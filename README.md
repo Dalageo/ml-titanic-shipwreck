@@ -85,7 +85,7 @@ The following table provides a detailed description of the columns found in `tra
 
 2. **Clone the repository**:
    ```sh
-   git clone https://github.com/Dalageo/ML-TitanicShipwreck.git
+   git clone https://github.com/Dalageo/ml-titanic-shipwreck.git
 
 3. **Navigate to the cloned directory**:
    ```sh
