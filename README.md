@@ -34,6 +34,7 @@ Given that the true survival status of Titanic passengers is publicly available,
 
 *It's important to mention that the score shown in the above image (0.78947) was achieved through a **slightly** modified ensemble model and different parameter tuning compared to the provided notebook (0.78468). These exact details are not shared here to encourage independent experimentation and to prevent you from overfitting.* 😜
 
+<br>
 
 ## Dataset Description
 
@@ -62,10 +63,11 @@ The following table provides a detailed description of the columns found in `tra
 | `Cabin`        | String      | Cabin number                                                                |  
 | `Embarked`     | String      | Port of embarkation (`C` = Cherbourg; `Q` = Queenstown; `S` = Southampton)  |
 
+<br>
 
 ## Setup Instructions
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Logo" width="28" height = "20"/> **Google Colab Setup**
+### <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab Logo" width="28"/> **Google Colab Setup**
 
 1. **Download the required dataset from**:
    - **[Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)**
@@ -78,7 +80,7 @@ The following table provides a detailed description of the columns found in `tra
 
 ---
 
-### <img src="https://github.com/user-attachments/assets/8d36d1a5-e9b1-40d1-97c9-3d4ca49e9c95" alt="Local PC" width="18" height = "16" /> **Local Environment Setup**
+### <img src="https://github.com/user-attachments/assets/8d36d1a5-e9b1-40d1-97c9-3d4ca49e9c95" alt="Local PC" width="18" /> **Local Environment Setup**
 
 1. **Download the required dataset from**:
     - **[Kaggle - Titanic: Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic/data)**
@@ -97,19 +99,22 @@ The following table provides a detailed description of the columns found in `tra
    
 6. **Run the cells sequentially to reproduce the results.**
 
+<br>
 
 ## Acknowledgments
 
 The dataset used in this project is provided by [Kaggle](https://kaggle.com/competitions/titanic) as part of the [Titanic-Machine Learning from Disaster](https://www.kaggle.com/competitions/titanic) competition. Special thanks to [Kaggle's](https://www.kaggle.com/) data science community, and Will Cukierski for making this dataset available for educational and research purposes.
 
+<br>
 
 ## License
 
 This work is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). It was chosen to comply with the competition rules, which require the use of an [Open Source Initiative (OSI)](https://opensource.org/) approved license that permits commercial use while promoting open collaboration.
 
+<br>
 <div align="center">
 <a href="https://www.apache.org/licenses/LICENSE-2.0">
-  <img src="https://github.com/user-attachments/assets/bcf30286-f8b7-488a-8300-ec2464090c33" alt="Apache License 2.0" width="220" height="120">
+  <img src="https://github.com/user-attachments/assets/bcf30286-f8b7-488a-8300-ec2464090c33" alt="Apache License 2.0" width="220">
 </a>
 </div>
 
